@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../17-BinaryFile-Serialization.iml" filepath="$PROJECT_DIR$/../17-BinaryFile-Serialization.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../CopyFile/CopyFile.iml" filepath="$PROJECT_DIR$/../CopyFile/CopyFile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ProductManagement/ProductManagement.iml" filepath="$PROJECT_DIR$/../ProductManagement/ProductManagement.iml" />
+    </modules>
+  </component>
+</project>
